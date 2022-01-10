@@ -1,4 +1,5 @@
-# vsc-basics
+# Visual Studio Code - les bases
+https://code.visualstudio.com/
 
 # Process pour sauver son travail sur Git
 1. Depuis le menu latéral `Contrôle de code source` : cliquer sur "Mettre en attente les modifications" (bouton `+`)
